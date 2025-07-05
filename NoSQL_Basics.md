@@ -54,20 +54,15 @@ Advantages
 High Scalability: NoSQL databases use sharding for horizontal scaling, making it 
 easy to handle large amounts of data
 
-
-
 Flexibility: They can handle unstructured or semi-structured data, accommodating 
 dynamic changes to the data model
-
 
 High Availability: The replication feature in NoSQL databases ensures high 
 availability by replicating data to maintain consistency
 
-
 Cost-Effectiveness: NoSQL databases are often more cost-effective than traditional
 relational databases, as they are typically less complex and do not require 
 expensive hardware or software
-
 
 Disadvantages
 
@@ -78,11 +73,11 @@ the right database for a specific application
 Lack of ACID Compliance: NoSQL databases are not fully ACID-compliant, which 
 means they do not guarantee the consistency, integrity, and durability of data
 
-
 Lack of Support for Complex Queries: NoSQL databases are not designed to handle complex queries, making them less suitable for applications that require complex data analysis or reporting
 
-
 Use Cases
+
+![image](https://github.com/user-attachments/assets/415758b5-dfca-4a51-8ec8-da4138456400)
 
 NoSQL databases are often used in applications where there is a high volume of 
 data that needs to be processed and analyzed in real-time, such as social media 
