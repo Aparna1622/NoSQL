@@ -8,6 +8,15 @@ and scale horizontally to handle growing amounts of data.
 
 ![image](https://github.com/user-attachments/assets/d7a9ed17-f44a-4586-8912-58a4d7df9677)
 
+Relational vs Non relational databases:
+
+![image](https://github.com/user-attachments/assets/307474f8-2d43-435f-a3e1-dde7fb429d27)
+
+![image](https://github.com/user-attachments/assets/e4380121-8ccd-43b9-9593-e1d4cd3dbded)
+
+
+
+
 Types of NoSQL Databases
 
 NoSQL databases are generally classified into four main categories:
