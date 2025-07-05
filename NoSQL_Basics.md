@@ -6,7 +6,8 @@ traditional relational databases that use tables with pre-defined schemas, NoSQL
 databases use flexible data models that can adapt to changes in data structures 
 and scale horizontally to handle growing amounts of data.
 
-https://www.bing.com/images/search?view=detailV2&ccid=aft5e%2FgF&id=C2AF805A6F2A962CB92289CA93707003DC80D1DC&thid=OIP.aft5e_gFeDW4DQ8tayEsrAHaEP&mediaurl=https%3A%2F%2Feditor.analyticsvidhya.com%2Fuploads%2F16668what-is-Nosql-database1.png&exph=435&expw=760&q=usage+of+nosql+data+base&simid=608053287334542203&form=IRPRST&ck=EED3A7DF02CC532B2355D284B4C2F694&selectedindex=4&itb=0&cw=1098&ch=519&ajaxhist=0&ajaxserp=0&vt=0&sim=11
+![image](https://github.com/user-attachments/assets/d7a9ed17-f44a-4586-8912-58a4d7df9677)
+
 Types of NoSQL Databases
 
 NoSQL databases are generally classified into four main categories:
